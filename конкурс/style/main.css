@@ -1,0 +1,21 @@
+.intro-text {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+.highlight {
+    font-weight: bold;
+    color: #007bff;
+}
+.quote {
+    font-style: italic;
+    color: #6c757d;
+}
+.carousel-inner {
+    max-height: 1200px; 
+}
+.carousel-item img {
+    max-height: 100%;
+    height: auto;
+    width: 100%;
+    object-fit: contain; 
+}
